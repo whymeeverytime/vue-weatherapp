@@ -1,4 +1,5 @@
 # weatherapp
+Simple weather application that gathers weather information of the specified location from a weather API 
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
